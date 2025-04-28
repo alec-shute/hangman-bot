@@ -3,8 +3,9 @@ Python script to solve Hangman by letter frequency analysis and word pruning.
 
 ## How to run
 - Requires Python 3
-- Uses a `words_alpha.txt` word list file
 - Run with: `python hangman_solver.py`
+- Uses a `words_alpha.txt` word list file
+- `words_alpha.txt` is included in this repository and has size 4MB. Make sure it's in the same folder as `hangman_solver.py`.
 
 ## Features
 - Intelligent guessing
